@@ -1,0 +1,2 @@
+well_name,look_back,n_nodes,optimizer,epochs,test_rmse
+well_2,1,5,adam,5,179.25705935709146
