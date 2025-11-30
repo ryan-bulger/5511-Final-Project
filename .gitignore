@@ -1,1 +1,3 @@
 *rmse_results.csv
+*.keras
+tuning_rmse*
